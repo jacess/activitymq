@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 18 10:58:37 CST 2015
+maven-clean-plugin-2.4.1.pom>nexus=
+maven-clean-plugin-2.4.1.jar>nexus=
+maven-clean-plugin-2.4.1.jar>central=
+maven-clean-plugin-2.4.1.pom>central=
